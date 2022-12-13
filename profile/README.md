@@ -16,5 +16,5 @@ This organization on Github is where we store all of our behind-the-scenes goodi
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-![HiResStickerLogo_4-26_1](https://user-images.githubusercontent.com/50721990/206835957-6fa94fdf-daa4-441d-b89a-a15fac181819.png)
+
+![HiResStickerLogo_4-26_1](https://user-images.githubusercontent.com/50721990/206835957-6fa94fdf-daa4-441d-b89a-a15fac181819.png)-->
