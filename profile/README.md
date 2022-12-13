@@ -5,6 +5,8 @@ Welcome to the Optimistic Prominence GitHub page. You won't find much here that 
 This organization on Github is where we store all of our behind-the-scenes goodies. If you have a good case for why you might want to see anything under the hood, contact us (info@optimisticprominence.com) and maybe we'll agree!
 
 :mountain: We'll see you at the top! :mountain:
+
+<img src="https://user-images.githubusercontent.com/50721990/206835957-6fa94fdf-daa4-441d-b89a-a15fac181819.png" style="width:200px;">
 <!--
 
 **Here are some ideas to get you started:**
